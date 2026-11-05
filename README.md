@@ -44,8 +44,7 @@ All academic literature and raw data are permanently archived with DOI and open 
 ---
 
 ## 🛠 Repository Contents
-*   `/code`: Python simulations demonstrating the state recursion and the structural residual formula \(R(k) = 1 - \cos(\pi/k)\).
+*   `/core_simulation_full.py`: **Complete archival Python source code for all numerical simulations (A/B/C/D) in the paper.** Includes LZ complexity calculation, time perception matrices, and irrational residual approximations. 
+*   `/simulation.py`: Quick proof-of-concept script demonstrating the fundamental state recursion.
 *   `/docs`: PDF versions of the core papers and raw conversation logs with the AI model.
 *   `/data`: Open-source data from the 72-hour experiment.
-
-> *"Logic is a discrete triangle, while the world is a continuous circle. Any finite triangle can never exhaust the circle." — Gangbei Niu*
