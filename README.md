@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/1446612489.svg)](https://doi.org/10.5281/zenodo.23971826)
 # Recursive Ontology (递归本体论) & The Triangle-Circle Topological Model
 
 **Author:** [Gangbei Niu (牛港贝)](https://philpeople.org/profiles/gangbei-niu) | Independent Scholar
